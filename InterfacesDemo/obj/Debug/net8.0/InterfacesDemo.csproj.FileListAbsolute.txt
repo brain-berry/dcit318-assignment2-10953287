@@ -1,0 +1,15 @@
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.exe
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.deps.json
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.runtimeconfig.json
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.dll
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.sourcelink.json
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.dll
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\refint\InterfacesDemo.dll
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\henry\dcit318-assignment2-10953287\InterfacesDemo\obj\Debug\net8.0\ref\InterfacesDemo.dll
